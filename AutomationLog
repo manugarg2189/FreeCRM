@@ -1,0 +1,19 @@
+2019-09-07 12:09:427 INFO  LoggerHelper:21 - Logger is configured
+2019-09-07 12:09:441 INFO  LoggerHelper:22 - Logger is configured
+2019-09-07 12:09:442 INFO  LoggerHelper:23 - Logger is configured
+2019-09-07 12:09:295 INFO  LoggerHelper:21 - Logger is configured
+2019-09-07 12:09:305 INFO  LoggerHelper:22 - Logger is configured
+2019-09-07 12:09:307 INFO  LoggerHelper:23 - Logger is configured
+2019-09-07 15:09:479 INFO  LoggerHelper:21 - Logger is configured
+2019-09-07 15:09:524 INFO  LoggerHelper:22 - Logger is configured
+2019-09-07 15:09:526 INFO  LoggerHelper:23 - Logger is configured
+2019-09-07 16:09:257 INFO  LoggerHelper:21 - Logger is configured
+2019-09-07 16:09:268 INFO  LoggerHelper:22 - Logger is configured
+2019-09-07 16:09:269 INFO  LoggerHelper:23 - Logger is configured
+2019-09-07 23:09:468 INFO  Retry:16 - Retrying test awith status :Failure
+2019-09-07 23:09:494 INFO  Retry:16 - Retrying test awith status :Failure
+2019-09-07 23:09:520 INFO  Retry:16 - Retrying test awith status :Failure
+2019-09-07 23:09:384 INFO  Retry:16 - Retrying test a with status :Failure
+2019-09-07 23:09:413 INFO  Retry:16 - Retrying test a with status :Failure
+2019-09-07 23:09:430 INFO  Retry:16 - Retrying test a with status :Failure
+2019-09-08 19:09:667 INFO  ExelHelper:61 - 
